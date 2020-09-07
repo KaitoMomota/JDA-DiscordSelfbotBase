@@ -12,7 +12,7 @@ A simple Discord selfbot base made with JDA for developers
 
 (To build the jar, just use the shadowJar task)
 
-PS: The selfbot only works on group and privatechannel
+PS: The selfbot only works on group and privatechannel [JDA sucks]
 
 ## Author
 
